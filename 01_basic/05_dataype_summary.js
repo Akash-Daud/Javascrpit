@@ -9,7 +9,7 @@ Bigint  */
 
 
 // Javascript Is Dynamicaly type langauge 
-  const score =100
+  // const score =100
 //   const scorwvalue=100.9
 
 //   const isLogIn = false
@@ -39,19 +39,49 @@ let myObj={
 }
 
 Function */
-normal function and arrow function
+// normal function and arrow function
 
-const myFunction = function(){
-    console.log(" Normal function")
-}
+// const myFunction = function(){
+//     console.log(" Normal function")
+// }
 
-myFunction=()=>{
-    console.log("This is the arrow function");
+// myFunction=()=>{
+//     console.log("This is the arrow function");
     
-}
+// }
 
-how to check a datatype 
+// how to check a datatype 
 
-   --> typeOf 
+//    --> typeOf 
 
-   note = all nonpremative datatype is show the typeof is Object
+//    note = all nonpremative datatype is show the typeof is Object
+
+
+//    //////////////////////////////////////////////////////////////////////////
+//       Stack(premative) & Heap (Non Premative )
+       
+//       let myYoutube = "akashyoutube"
+
+//       let anothername=myYoutube
+//       anothername = "daudyoutube"
+
+//       console.log(myYoutube);
+//       console.log(anothername);
+      
+//       stack memory is the take a refrance for the origanal value it`s premative  datatype
+
+//       let userOne ={
+//       email:"akash@gmail.com"
+//       upi:"akash@ybl"
+
+//       }
+
+//       let userTwo= userOne
+
+//       let uderTwo.email="daud@gmail.com"
+
+//       console.log(userTwo)     output daud@gmail.com
+//       console.log(userOne)    output daud@gmail.com
+
+
+//       Heap is the take a orinal value 
